@@ -4,7 +4,6 @@
 int main() {
     char sentence[100];
     char ch;
-    int i = 0;
 
     printf("Zadejte větu:\n");
     fgets(sentence, 100, stdin);
