@@ -5,7 +5,7 @@ int main() {
     char sentence[100];
     char ch;
 
-    printf("Zadejte větu:\n");
+    printf("Zadejte vetu:\n");
     fgets(sentence, 100, stdin);
 
     // Otevření souboru pro zápis
